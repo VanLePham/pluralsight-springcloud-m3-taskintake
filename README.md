@@ -20,7 +20,7 @@ Clone the app `pluralsight-springcloud-m3-tasksink` (see its README for details)
 
 **4.** Open Postman and do a POST to http://localhost:8082/tasks with body as text `StationName,LicensePlate,2019-01-01T08:44:50`
 
-**1=5.** Look at the app Console window to see the log msg. If you create a database for the `pluralsight-springcloud-m3-task`, open the database to see if the record is saved
+**5.** Look at the app Console window to see the log msg. If you create a database for the `pluralsight-springcloud-m3-task`, open the database to see if the record is saved
 
 ## Notes: 
 Make sure the settings 
